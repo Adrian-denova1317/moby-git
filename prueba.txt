@@ -1,1 +1,2 @@
 Hola
+añado otra linea no debe  dar conflicto
